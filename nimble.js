@@ -234,4 +234,4 @@
         });
     };
 
-}(typeof exports === 'undefined' ? this._ = {}: exports));
+}(typeof exports === 'undefined' ? this._ = this._ || {}: exports));
